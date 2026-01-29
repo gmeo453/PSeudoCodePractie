@@ -1,0 +1,115 @@
+//Practice 1
+
+//Convert a user-input into all caps, print the result.
+
+//Input libraries
+//Input <toupper>
+//Input <iostream>
+//Input <iomanip>
+
+//Ask user to type in any letter 
+
+//User would type in any letter or word
+
+//Output "x" or the variable/word the user inputed into all CAPS
+
+//Output errors if user has put anything that isnt A-Z input.
+
+
+
+//Practice 2
+
+//Have user input two numbers, add them together and print the result
+
+//Input libraries
+//Input <cmath>
+//Input <iomanip>
+//Input <iostream>
+
+//Ask user for number 1
+
+//Ask user for number 2
+
+//Calculate the total amounts given
+
+//Output the sum of both numbers
+
+//Input error statement if user typed symbols that aren't 0-9
+
+
+
+//Practice 3
+
+//Get an unknown amount of numbers from the user and add them together, print out the result.
+
+//Input libraries
+//Input <cmath>
+//Input <iomanip>
+//Input <iostream>
+
+//Create a for loop that holds user input using if and else statements
+
+//Ask user for first number while in the loop
+
+//if user inputs a number, ask user if they want to add more
+
+//if user adds more repeat exact question
+
+//if user says no, end loop and add total all together
+
+//if user uses anything other than 0-9 output error statement and force back into loop
+
+
+
+//Practice 4
+// Have the user define a maximum whole number, print out a random number between 0 and their number. 
+// Allow the user to play again or quit.
+
+//Input libraries 
+//Input <cmath>
+//Input <iomanip>
+//Input <iostream>
+
+//Create a loop with random numbers 
+
+//Ask user for their max number
+
+//Calculate the number line to have the code pick a random varible
+
+//Output random variable
+
+//Ask user to input again
+
+//Input exit statement to escape the loop
+
+//Input error statement if number is lower than 0 or is not a number symbol that is 0-9\
+
+
+
+//Practice 5
+
+//Get a random number. If the number is even print “RIGHT”, 
+// if it’s odd, print “LEFT”. 
+// Do this ten times. Print out how many times it was “LEFT” 
+// and how many times it was “RIGHT”.
+
+//Input libraries 
+//Input <cmath>
+//Input <iomanip>
+//Input <iostream>
+
+//Enter range of ten rows
+
+// Allow code to generate or input random numbers
+
+// If the number ends up being even, make sure to have code print out right
+
+// Else have code print out left
+
+//Make sure to determine if number is even or odd using modulus symbol "%" and calculate
+
+//If zero enters the system create "NONE" for its value because it cannot be even or odd. 
+
+// Output how many times even was used and how many times odd was used
+
+//End code
